@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# 定分-Centa
 
-You can use the [editor on GitHub](https://github.com/Xiaoli123456789ouo/diffint.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 安装
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 正式版
 
-### Markdown
+#### Centa 4.0
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+您可以在编程猫官网获得Centa4.0的最新正式版
 
-```markdown
-Syntax highlighted code block
+[前往编程猫获取Centa](https://shequ.codemao.cn/work/81810150)
 
-# Header 1
-## Header 2
-### Header 3
+#### Centa 3.0
 
-- Bulleted
-- List
+###### *2022年7月15日更新
 
-1. Numbered
-2. List
+Diffint对Centa3.0的支持已于2022年7月14日结束。3.0用户请及时更新至4.0！
 
-**Bold** and _Italic_ and `Code` text
+### 测试版
 
-[Link](url) and ![Image](src)
-```
+#### Centa Insider 5.0
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+请在编程猫官网获取公测版本：[前往编程猫获取最新版](https://shequ.codemao.cn/work/152416402)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xiaoli123456789ouo/diffint.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
