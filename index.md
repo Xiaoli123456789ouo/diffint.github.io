@@ -15,6 +15,7 @@
 ###### *2022年7月15日更新
 
 Diffint对Centa3.0的支持已于2022年7月14日结束。3.0用户请及时更新至4.0！
+[查看](https://xiaoli123456789ouo.github.io/diffint.github.io/threeupdateover)
 
 ### 测试版
 
