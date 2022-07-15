@@ -1,5 +1,7 @@
 # 定分-Centa
 
+[森塔历史博物馆](https://xiaoli123456789ouo.github.io/centahistory.github.io/)
+
 ## 安装
 
 ### 正式版
